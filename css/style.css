@@ -1,0 +1,20 @@
+.navigation{
+    display: inline-block;  text-decoration-line: underline;
+    
+}
+
+h1{color: #F6D860;
+}
+
+h2{color: red;}
+
+h3{color: goldenrod;}
+
+
+body{text-align: center; list-style-position:inside ;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
